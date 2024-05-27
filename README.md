@@ -3,3 +3,6 @@
 Запустивши код, нас зустрічає головне меню гри з трьома активними кнопками
 
 ![image](https://github.com/dufedanceq/examOP1Year/assets/103373187/ce0c29fe-7335-4c89-a8e9-7a88a9e00f51)
+
+## New game
+
